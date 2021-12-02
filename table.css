@@ -1,0 +1,26 @@
+.table-all {
+    margin: 1rem auto;
+  }
+
+  td {
+    padding: 1.75rem 3.75rem;
+    margin: 0;
+    text-align: center;
+    background-color: white;
+    font-weight: bold;
+  }
+
+  tr {
+    margin: 0;
+    padding: 0;
+  }
+
+  .titles-table {
+    background-color: red;
+    color: white;
+  }
+
+  .form-query > div {
+    margin: 1rem;
+  }
+
